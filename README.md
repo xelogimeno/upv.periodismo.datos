@@ -24,3 +24,4 @@ Ricard Martínez. Adolfo A.Bravo
 db_home:  /%H 
 ```
  estoy modificando la home de cygwin variable de entorno para tener la home de mi usuario como la home de windows
+# periodismo datos
